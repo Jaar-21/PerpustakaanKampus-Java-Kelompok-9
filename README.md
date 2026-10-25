@@ -6,7 +6,7 @@ Program Java berbasis konsol (menu interaktif dengan `Scanner`) untuk mengelola 
 - ***Mata Kuliah:*** Pemrograman Berorientasi Objek
 - ***Dosen Pengampu:*** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
 - ***Program Studi:*** Sistem Informasi
-- ***Angkatan:*** 2025
+- ***Angkatan:*** 2025 dan 2024
 - ***Kelompok:*** 9
 
 ## Anggota Kelompok 9
