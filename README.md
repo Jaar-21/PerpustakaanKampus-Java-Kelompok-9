@@ -11,8 +11,8 @@ Program Java berbasis konsol (menu interaktif dengan `Scanner`) untuk mengelola 
 
 ## Anggota Kelompok 9
 1. **Marza Hanaya Melodya Goga** - 2409116103 - Kelas C
-2. **Ahmad Fajar Novia** - 2509116041 - Kelas C
-3. **Harits** - 2509116048 - Kelas C
+2. **Ahmad Fajar Novia** - 2509116041 - Kelas B
+3. **Harits** - 2509116048 - Kelas B
 4. **Farah Hikmatul Maula** - 2509116099 - Kelas C
 
 ## Fitur dan Penerapan Struktur Data
